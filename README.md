@@ -22,9 +22,8 @@
 
 - 💬 Ask me about **GS**
 
-- 📫 How to reach me **harshvardhan.pawar.562@gmail.com**
 
-<h3 align="left">Connect with me: **harshvardhan.pawar.562@gmail.com**</h3>
+<h3 align="left">Connect with me: <a href="harshvardhan.pawar.562@gmail.com"> Email</a></h3>
 <p align="left">
 </p>
 
