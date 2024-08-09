@@ -1,9 +1,10 @@
 
+<h1 align="center">Hi 👋, I'm Harshvardhan</h1>
 
 ![image](https://github.com/user-attachments/assets/c151ef3c-37a0-4116-bac3-dfd21dc9b310)
 
 
-<h1 align="center">Hi 👋, I'm Harshvardhan</h1>
+
 <h3 align="center">A passionate AI and DS from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbp48&label=Profile%20views&color=0e75b6&style=flat" alt="hbp48" /> </p>
@@ -20,7 +21,7 @@
 
 - 📫 How to reach me **harshvardhan.pawar.562@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **harshvardhan.pawar.562@gmail.com**</h3>
 <p align="left">
 </p>
 
