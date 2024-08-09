@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbp48" alt="hbp48" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbp48" alt="hbp48" /></a> </p>-->
 
 - 🔭 I’m currently working on [College Project](https://github.com/Hbp48/Main-Project.git)
 
