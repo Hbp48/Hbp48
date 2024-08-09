@@ -5,11 +5,14 @@
 
 
 
-<h3 align="center">A passionate AI and DS from India</h3>
+<h3 align="center">A passionate CSE student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbp48&label=Profile%20views&color=0e75b6&style=flat" alt="hbp48" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbp48" alt="hbp48" /></a> </p>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br>
+<img src="https://github-profile-trophy.vercel.app/?username=hbp48" alt="hbp48" /></a> </p>
 
 - 🔭 I’m currently working on [College Project](https://github.com/Hbp48/Main-Project.git)
 
