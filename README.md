@@ -23,7 +23,7 @@
 - 💬 Ask me about **GS**
 
 
-<h3 align="left">Connect with me: <a href="harshvardhan.pawar.562@gmail.com"> Email</a></h3>
+<h3 align="left">Connect with me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=harshvardhan.pawar.562@gmail.com&su=Hello&body=I%20would%20like%20to%20get%20in%20touch%20with%20you."> Email</a></h3>
 <p align="left">
 </p>
 
